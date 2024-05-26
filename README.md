@@ -1,2 +1,0 @@
-# DictionaryApp
- 
